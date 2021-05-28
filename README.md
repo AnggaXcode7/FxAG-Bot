@@ -62,7 +62,7 @@ Siapin alat dan bahannya.
 Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+* [`Donasi kak`](https://saweria.co/anggaGans)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
