@@ -51,10 +51,10 @@ Siapin alat dan bahannya.
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
-> cd babybot
+> git clone https://github.com/FxAngga/FxAG-Bot
+> cd FxAG-Bot
 > bash install.sh
-> npm start
+> node index.js
 > SCAN DAH BRO MHEHE EZ KAN:V
 ```
 
